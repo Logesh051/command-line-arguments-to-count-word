@@ -32,6 +32,8 @@ word=data.split()
 print("The word count is",len(word))
 f1.close()
 ```
+### OUTPUT:
+![Screenshot 2023-12-29 234604](https://github.com/Logesh051/command-line-arguments-to-count-word/assets/144979188/1f4f746e-d7f5-4948-bffc-f5542267bf6f)
 
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
